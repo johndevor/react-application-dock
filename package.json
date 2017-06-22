@@ -1,0 +1,33 @@
+{
+  "name": "react-application-dock",
+  "version": "0.0.1",
+  "description": "Simple react dock component for applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndevor/react-application-dock.git"
+  },
+  "keywords": [
+    "react",
+    "dock",
+    "applications",
+    "component",
+    "ui",
+    "launcher",
+    "apps"
+  ],
+  "author": "John Devor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndevor/react-application-dock/issues"
+  },
+  "homepage": "https://github.com/johndevor/react-application-dock#readme",
+  "devDependencies": {
+    "nwb": "^0.17.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
